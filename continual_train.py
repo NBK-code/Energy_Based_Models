@@ -19,7 +19,7 @@ def sample_negative_y(
 
 
 def continual_train(
-    n_epochs=200,
+    n_epochs=300,
     batch_size=128,
     lr=1e-3,
     device="cpu",
